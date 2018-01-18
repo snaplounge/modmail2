@@ -1,0 +1,16 @@
+{
+  "token": "NDAzMjAyNjA5NDg3NTQ0MzIy.DUD3Tw.gBThyhhql_ezAI9cRTrJb5Uf0xk",
+  "mailGuildId": "403199738582925313",
+  "mainGuildId": "401840695448698880",
+
+  "status": "Need help? DM me!",
+  "responseMessage": "Thank you for your message! Our moderation team will reply to you here as soon as possible.",
+  
+  "ignoreAccidentalThreads": "true",
+  "newThreadCategoryId": "403223635927629847",
+  
+  "enableGreeting": "true",
+  "greetingMessage": "**Thanks for joining Snaplounge!**\nBe sure to invite your friends using https://discord.gg/aUqvxBn and to check out our <#401863616183140375> and <#401864435406340097> channels!\n\nIf you have any questions, comments, or concerns you can always reply to this message to contact our moderation team!\n https://goo.gl/CiQdpB",
+  
+  "logChannelId": "403223069159718912"
+}
